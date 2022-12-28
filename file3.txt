@@ -1,1 +1,2 @@
-hello
+replacing the text in file3
+adding text to file3
